@@ -1,0 +1,19 @@
+{
+  "id": "/space-guardians/",
+  "name": "שומרי הגלקסיה הקטנים",
+  "short_name": "שומרי הגלקסיה",
+  "description": "מסע חלל צבעוני: חוקרים, מנסים ומנצחים בעזרת מדע.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/space-guardians/index.html?source=pwa",
+  "scope": "/space-guardians/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071125",
+  "theme_color": "#09152c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
